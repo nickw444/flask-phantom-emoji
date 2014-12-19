@@ -1,0 +1,3 @@
+[submodule "flask_phantom_emoji/PhantomOpenEmoji"]
+	path = flask_phantom_emoji/PhantomOpenEmoji
+	url = git@github.com:Genshin/PhantomOpenEmoji.git
