@@ -9,7 +9,7 @@ long_description = open(readme_path).read()
 
 setup(
   name='flask-phantom-emoji',
-  version='0.1.2',
+  version='0.1.3',
   packages=['flask_phantom_emoji'],
   author="Nick Whyte",
   author_email='nick@nickwhyte.com',
@@ -18,4 +18,7 @@ setup(
   url='https://github.com/nickw444/flask-phantom-emoji',
   include_package_data=True,
   zip_safe=False,
+  install_requires=[
+    "Flask",
+  ],
 )
