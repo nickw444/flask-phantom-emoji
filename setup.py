@@ -8,7 +8,7 @@ readme_path = os.path.join(os.path.dirname(
 long_description = open(readme_path).read()
 
 setup(
-  name='flask-gemoji',
+  name='flask-phantom-emoji',
   version='0.1.0',
   packages=['flask_phantom_emoji'],
   author="Nick Whyte",
