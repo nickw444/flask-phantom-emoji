@@ -19,3 +19,4 @@ CVS
 
 # python
 *.pyc
+flask_gemoji.egg-info/*

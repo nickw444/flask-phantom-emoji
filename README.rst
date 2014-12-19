@@ -29,4 +29,3 @@ Usage
         {{ content | phantom }}
     </body>
     </html>
-
