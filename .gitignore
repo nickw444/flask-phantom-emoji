@@ -19,4 +19,4 @@ CVS
 
 # python
 *.pyc
-flask_gemoji.egg-info/*
+flask_phantom_emoji.egg-info/*

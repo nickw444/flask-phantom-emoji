@@ -1,2 +1,2 @@
 include LICENSE README.rst
-recursive-include flask_phantom_emoji/PhantomOpenEmoji/emoji/ *
+recursive-include flask_phantom_emoji/PhantomOpenEmoji/emoji *.svg
