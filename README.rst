@@ -1,7 +1,7 @@
 ============
 flask-phantom-emoji
 ============
-User Phantom Open Emoji in your Flask Apps!
+Use Phantom Open Emoji in your Flask Apps!
 
 ------------
 Installation
