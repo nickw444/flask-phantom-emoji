@@ -18,11 +18,10 @@ class _PhantomEmoji(object):
       __package__,
       'PhantomOpenEmoji/emoji/',
     )
-    names = map(lambda s: os.path.splitext(s)[0],
+    names = list(map(lambda s: os.path.splitext(s)[0],
                 filter(lambda s: s.endswith('.svg'),
-                       os.listdir(phantom_images_path)))
+                       os.listdir(phantom_images_path))))
 
-    # Gemoji blueprint
     phantom = Blueprint(
       'phantom',
       __name__,
