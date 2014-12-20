@@ -9,7 +9,7 @@ long_description = open(readme_path).read()
 
 setup(
   name='flask-phantom-emoji',
-  version='0.1.3',
+  version='0.1.4',
   packages=['flask_phantom_emoji'],
   author="Nick Whyte",
   author_email='nick@nickwhyte.com',
