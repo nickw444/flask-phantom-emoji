@@ -20,3 +20,4 @@ CVS
 # python
 *.pyc
 flask_phantom_emoji.egg-info/*
+dist/
